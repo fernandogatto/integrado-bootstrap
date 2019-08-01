@@ -69,12 +69,13 @@ body {
         #uniao #frase {
             font-size: 2.5em;
         }   
+    }
 }
 
 /* Section Cursos */
 
 .cursos .card-body .info {
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 /* Footer */
